@@ -1,0 +1,41 @@
+{
+  "itens": [
+    {
+      "nome": "Suco",
+      "valor": 5,
+      "id": 1
+    },
+    {
+      "nome": "Cachorro Quente",
+      "valor": 8,
+      "id": 2
+    },
+    {
+      "nome": "Hamburguer",
+      "valor": 12,
+      "id": 3
+    },
+    {
+      "nome": "esfirra",
+      "valor": "6",
+      "id": 4
+    }
+  ],
+  "clientes": [
+    {
+      "nome": "junior",
+      "email": "junior@gmail.com",
+      "id": 1
+    },
+    {
+      "nome": "claudio",
+      "email": "claudio@gmail.com",
+      "id": 2
+    },
+    {
+      "nome": "renan",
+      "email": "renan@gmail.com",
+      "id": 3
+    }
+  ]
+}
