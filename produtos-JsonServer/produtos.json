@@ -1,40 +1,74 @@
 {
-  "itens": [
+  "clientes": [
     {
-      "nome": "Suco",
+      "nome": "joao",
+      "idade": "16",
+      "id": 1
+    },
+    {
+      "nome": "patricia",
+      "idade": 34,
+      "id": 2
+    },
+    {
+      "nome": "maria",
+      "idade": "41",
+      "id": 4
+    }
+  ],
+  "produtos": [
+    {
+      "nome": "arroz",
       "valor": 5,
       "id": 1
     },
     {
-      "nome": "Cachorro Quente",
+      "nome": "feijão",
       "valor": 8,
       "id": 2
     },
     {
-      "nome": "Hamburguer",
+      "nome": "macarrão",
       "valor": 12,
       "id": 3
     },
     {
-      "nome": "esfirra",
+      "nome": "açucar",
       "valor": "6",
       "id": 4
     }
   ],
-  "clientes": [
+  "fornecedores": [
     {
       "nome": "junior",
       "email": "junior@gmail.com",
       "id": 1
     },
     {
-      "nome": "claudio",
-      "email": "claudio@gmail.com",
+      "nome": "francisco",
+      "email": "francisco@gmail.com",
       "id": 2
     },
     {
       "nome": "renan",
       "email": "renan@gmail.com",
+      "id": 3
+    }
+  ],
+  "entregadores": [
+    {
+      "nome": "marquinho",
+      "contato": "(83)99434-8767",
+      "id": 1
+    },
+    {
+      "nome": "gabriel",
+      "contato": "(83)99645-8237",
+      "id": 2
+    },
+    {
+      "nome": "carlos",
+      "contato": "(83)99563-1873",
       "id": 3
     }
   ]
