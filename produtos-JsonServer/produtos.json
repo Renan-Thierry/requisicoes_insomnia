@@ -40,18 +40,21 @@
   ],
   "fornecedores": [
     {
-      "nome": "junior",
-      "email": "junior@gmail.com",
+      "nome": "nestle",
+      "email": "nestle@gmail.com",
+      "CNPJ": "00.12343/432543-56",
       "id": 1
     },
     {
-      "nome": "francisco",
-      "email": "francisco@gmail.com",
+      "nome": "JBS",
+      "email": "jbs@gmail.com",
+      "CNPJ": "00.54323/876678-67",
       "id": 2
     },
     {
-      "nome": "renan",
-      "email": "renan@gmail.com",
+      "nome": "sadia",
+      "email": "sadia@gmail.com",
+       "CNPJ": "00.87364/434565-58",
       "id": 3
     }
   ],
